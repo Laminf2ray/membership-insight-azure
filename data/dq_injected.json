@@ -1,0 +1,20 @@
+{
+  "members_region_missing": 150,
+  "members_region_inconsistent": 97,
+  "members_email_messy": 100,
+  "members_join_date_ddmmyyyy": 250,
+  "members_duplicate_rows": 50,
+  "attendance_orphan_member_id": 57,
+  "attendance_duplicate_rows": 115,
+  "survey_satisfaction_out_of_range": 19,
+  "survey_satisfaction_missing": 38,
+  "sessions_negative_duration": 200,
+  "sessions_future_dated": 120,
+  "row_counts": {
+    "members": 5050,
+    "events": 60,
+    "attendance": 11578,
+    "survey_responses": 3833,
+    "web_sessions": 40000
+  }
+}
