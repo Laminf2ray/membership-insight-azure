@@ -20,6 +20,5 @@ Python (Faker) -> Azure SQL (raw -> clean -> model) -> Power BI
 * Day 2: Synthetic data generator (5,000 members, 60 events, 11.6k attendances, 3.8k survey responses, 40k web sessions, 11 types of injected data-quality issues) ✅
 * Day 3: Python/pyodbc loader into Azure SQL raw schema, reconciled row counts, load audit table ✅
 * Day 4: T-SQL clean layer (15 data-quality rules, rejected rows quarantined, not deleted), star schema (4 dimensions, 3 facts, no personal data in the model), automated reconciliation: all checks pass ✅
-
-
+* Day 5: Power BI report (4 pages: overview, lapse risk, CPD engagement, satisfaction) on the star schema, with DAX measures ✅
 
